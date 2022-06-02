@@ -1,9 +1,26 @@
-links
+links gerais resolvidos
 
 https://www.hackerrank.com/challenges/migratory-birds/
-
 https://www.hackerrank.com/challenges/drawing-book/
-
 https://www.hackerrank.com/challenges/apple-and-orange/problem
-
 https://www.hackerrank.com/challenges/diagonal-difference/problem
+https://www.hackerrank.com/challenges/solve-me-first/problem?
+https://www.hackerrank.com/challenges/compare-the-triplets/problem?
+
+
+
+links Python resolvidos facil
+
+https://www.hackerrank.com/challenges/py-if-else/problem?
+https://www.hackerrank.com/challenges/python-arithmetic-operators/problem
+https://www.hackerrank.com/challenges/python-division/problem?
+https://www.hackerrank.com/challenges/python-loops/problem?
+https://www.hackerrank.com/challenges/python-print/problem
+
+
+links Python colando facil 
+https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem
+
+
+
+links para realizar
