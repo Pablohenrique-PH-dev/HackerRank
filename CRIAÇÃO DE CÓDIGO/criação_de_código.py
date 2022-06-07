@@ -1,5 +1,6 @@
 # so consegui fazer passar consultando pois preciso estudar testes
 
+
 l = set(arr)
 l1 = []
 
