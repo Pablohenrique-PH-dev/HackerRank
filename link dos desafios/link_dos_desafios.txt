@@ -16,6 +16,8 @@ https://www.hackerrank.com/challenges/python-arithmetic-operators/problem
 https://www.hackerrank.com/challenges/python-division/problem?
 https://www.hackerrank.com/challenges/python-loops/problem?
 https://www.hackerrank.com/challenges/python-print/problem
+https://www.hackerrank.com/challenges/python-string-split-and-join/problem?
+https://www.hackerrank.com/challenges/whats-your-name/problem
 
 
 links Python colando facil 

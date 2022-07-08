@@ -55,9 +55,3 @@ for l in s:
         if len(s) == n50 and n5 == 0:
             print(False)
 
-
-
-
-
-
-
