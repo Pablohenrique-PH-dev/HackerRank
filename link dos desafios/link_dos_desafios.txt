@@ -18,6 +18,10 @@ https://www.hackerrank.com/challenges/python-loops/problem?
 https://www.hackerrank.com/challenges/python-print/problem
 https://www.hackerrank.com/challenges/python-string-split-and-join/problem?
 https://www.hackerrank.com/challenges/whats-your-name/problem
+https://www.hackerrank.com/challenges/python-mutations/problem?
+https://www.hackerrank.com/challenges/find-a-string/problem?
+https://www.hackerrank.com/challenges/text-alignment/problem?
+https://www.hackerrank.com/challenges/string-validators/problem?
 
 
 links Python colando facil 
