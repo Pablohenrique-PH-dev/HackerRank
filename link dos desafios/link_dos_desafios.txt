@@ -24,6 +24,8 @@ https://www.hackerrank.com/challenges/text-alignment/problem?
 https://www.hackerrank.com/challenges/string-validators/problem?
 https://www.hackerrank.com/challenges/text-alignment/problem?
 https://www.hackerrank.com/challenges/text-wrap/problem?
+https://www.hackerrank.com/challenges/capitalize/problem?
+https://www.hackerrank.com/challenges/swap-case/problem?
 
 
 links Python colando facil 
