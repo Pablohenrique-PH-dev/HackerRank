@@ -15,7 +15,6 @@ n = "1 2 3 4 5 6 7 8 9"
 b = 9
 b = "10 1 2 3 11 21 55 6 8"
 
-
 c = list(n + b)
 print(c)
 c = set(c)
@@ -60,7 +59,6 @@ n = input().split()
 b = input()
 
 b = input().split()
-
 
 c = n + b
 c = list(set(c))
